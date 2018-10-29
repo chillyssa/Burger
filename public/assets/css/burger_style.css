@@ -1,0 +1,9 @@
+#game{
+  background-image: url(../images/good-burger.jpg);
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #fddd66
+}
